@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Hello, World! I love life !!"); //Console  - это команда для работы окна терминала. WriteLine - оператор вводв\вывода
